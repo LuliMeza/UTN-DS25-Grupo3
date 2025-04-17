@@ -7,7 +7,7 @@ internos.
 
 ## Miembros del Equipo
 
-NOMBRE COMPLETO: Lucia Meza
-LEGAJO: 33693
-ALIAS DE SLACK Lucia Meza
-PERFIL DE GitHub: [https://github.com/LuliMeza]
+- **Lucia Meza**
+- **Legajo**: 33693
+- **Alias de slack**: Lucia Meza
+- **Perfil de GitHub**: [https://github.com/LuliMeza]
