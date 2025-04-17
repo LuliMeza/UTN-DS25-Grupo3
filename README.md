@@ -6,3 +6,8 @@ rápida y eficiente, mejorando la experiencia del usuario y optimizando los proc
 internos.
 
 ## Miembros del Equipo
+
+NOMBRE COMPLETO: Lucia Meza
+LEGAJO: 33693
+ALIAS DE SLACK Lucia Meza
+PERFIL DE GitHub: [https://github.com/LuliMeza]
