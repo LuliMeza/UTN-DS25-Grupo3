@@ -6,3 +6,5 @@ rápida y eficiente, mejorando la experiencia del usuario y optimizando los proc
 internos.
 
 ## Miembros del Equipo
+
+Lu Meza
