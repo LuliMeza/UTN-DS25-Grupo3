@@ -8,3 +8,10 @@ internos.
 ## Miembros del Equipo
 
 Lu Meza
+
+
+- **Lucia Meza**
+- **Legajo**: 33693
+- **Alias de slack**: Lucia Meza
+- **Perfil de GitHub**: [https://github.com/LuliMeza]
+
